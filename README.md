@@ -1,1 +1,1 @@
-# phyloState
+CTMC describing cell state differentiation
